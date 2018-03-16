@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pizzeria</string>
+    <string name="pizza_full_meat">Pizza Meat Lover</string>
+    <string name="descripcion">Salsa de tomate natural, pepperoni, jamón cocido, carne de cerdo especiada, bacon, carne de vacuno y queso mozzarella.</string>
+    <string-array name="android_layout_arrays">
+        <item>Americana</item>
+        <item>Meat Lover</item>
+        <item>Hawaiana</item>
+        <item>Pepperoni</item>
+    </string-array>
+
+</resources>
